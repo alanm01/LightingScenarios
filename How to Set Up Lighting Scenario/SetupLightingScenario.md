@@ -29,7 +29,7 @@ If not, follow these links to learn more:
 
 3. In the Content Browser, right click and select Miscellaneous -> Level Variant Sets.
 
-4. Rename the Level Variant Sets. In this example, rename it to LightingScenario01.
+4. Right click > Rename and change to LightingScenario01.
 
 5. Double click LightingScenario01 to pop up the VariantManager Window.
 
@@ -39,7 +39,7 @@ If not, follow these links to learn more:
 
 2. Click the + symbol next to the created Variant Set.
 
-3. Right click > Rename and rename the Variant to Day.
+3. Rename the Variant to Day.
 
 4. In the Properties tab, click the Actors+ -> DirectionalLight.
 
