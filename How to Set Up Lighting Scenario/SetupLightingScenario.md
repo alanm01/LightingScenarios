@@ -25,16 +25,21 @@ If not, follow these links to learn more:
 
 ![LS01_TimeofDayTemplate](https://raw.githubusercontent.com/alanm01/LightingScenarios/main/How%20to%20Set%20Up%20Lighting%20Scenario/Images/LS01_TimeofDayTemplate.png)
 
+
 2. In the World Outliner, delete the Floor, PlayerStart, SM_MatPreviewMesh_01, TextRenderActor, and TextRenderActor2 actors.
 
 ![LS02_DeleteActors](https://raw.githubusercontent.com/alanm01/LightingScenarios/main/How%20to%20Set%20Up%20Lighting%20Scenario/Images/LS02_DeleteActors.png)
+
+
 3. In the Content Browser, right click and select Miscellaneous -> Level Variant Sets.
 
 ![LS03_CreateLVS](https://raw.githubusercontent.com/alanm01/LightingScenarios/main/How%20to%20Set%20Up%20Lighting%20Scenario/Images/LS03_CreateLVS.png)
 
+
 4. Right click > Rename and change to LightingScenario01.
 
 ![LS04_RenameLVS](https://raw.githubusercontent.com/alanm01/LightingScenarios/main/How%20to%20Set%20Up%20Lighting%20Scenario/Images/LS04_RenameLVS.png)
+
 
 5. Double click LightingScenario01 to pop up the VariantManager Window.
 
