@@ -23,7 +23,7 @@ If not, follow these links to learn more:
 
 1. Create a New Level using the TimeOfDay Template.
 
-![Step 01](https://raw.githubusercontent.com/alanm01/Tech-Writing-Workshop/main/Github%20Profile/Github%20Profile%20-%20Step%2001.png)
+![Step 01](https://raw.githubusercontent.com/alanm01/LightingScenarios/main/How%20to%20Set%20Up%20Lighting%20Scenario/Images/LS01_TimeofDayTemplate.png)
 
 2. In the World Outliner, delete the Floor, PlayerStart, SM_MatPreviewMesh_01, TextRenderActor, and TextRenderActor2 actors.
 
