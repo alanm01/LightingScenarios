@@ -136,7 +136,7 @@ If not, follow these links to learn more:
 
 <br/>
 
-Double click the variants to toggle between the Day and Sunset lighting scenarios.
+Select the variants to toggle between the Day and Sunset lighting scenarios.
 
 ![ConLVS10_CompareLS](https://raw.githubusercontent.com/alanm01/LightingScenarios/main/How%20to%20Set%20Up%20Lighting%20Scenario/Images/ConLVS10_CompareLS.png)
 
