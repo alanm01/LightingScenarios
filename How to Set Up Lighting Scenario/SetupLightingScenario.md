@@ -15,8 +15,8 @@ The benefits of using the variant manager are:
 To use the Variant Manager, you need to have the **Editor > Variant Manager** plugin enabled for your project.
 
 You need to be familiar with the basics of Lighting Scenarios and the Variant Manager.
-If not, follow these links to learn more:
-[Precomputed Lighting Scenarios](https://docs.unrealengine.com/4.27/en-US/BuildingWorlds/LightingAndShadows/PrecomputedLightingScenarios/)
+If not, follow these links to learn more:  
+[Precomputed Lighting Scenarios](https://docs.unrealengine.com/4.27/en-US/BuildingWorlds/LightingAndShadows/PrecomputedLightingScenarios/)  
 [Variant Manager Overview](https://docs.unrealengine.com/4.27/en-US/WorkingWithContent/Variants/Overview/)
 
 ## Set Up the Lighting Scenario Scene
@@ -39,7 +39,7 @@ If not, follow these links to learn more:
 
 <br/>
 
-4. Select the **Level Variant Sets**. Right click > Rename and change to *LightingScenario01*.
+4. Select the **Level Variant Sets**. Right click > **Rename** and change to *LightingScenario01*.
 
 ![LS04_RenameLVS](https://raw.githubusercontent.com/alanm01/LightingScenarios/main/How%20to%20Set%20Up%20Lighting%20Scenario/Images/LS04_RenameLVS.png)
 
@@ -75,7 +75,7 @@ If not, follow these links to learn more:
 
 <br/>
 
-5. Repeat the step to add the **rest of the actors.**
+5. Repeat the step to **add the rest of the actors.**
 
 ![VM05_AddAll](https://raw.githubusercontent.com/alanm01/LightingScenarios/main/How%20to%20Set%20Up%20Lighting%20Scenario/Images/VM05_AddAll.png)
 
