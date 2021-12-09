@@ -5,13 +5,8 @@ This document will take you step-by-step through the tasks required to set up a 
 Using the variant manager can be an alternative way to create lighting scenarios from the standard method.
 
 The benefits of using the variant manager are:
-* to speed up the iteration process.
-* allows lighting artist to work in a single level instead of checking out
-compartmentalize the lighting Scenarios
-
-* give better usability to team members.
-give team members to use variety of lighting presets instaneously
-
+* iterate many lighting scenarios on one level.
+* give team members a simple to use setup.
 * create a more organized file structure.
 
 
@@ -148,6 +143,6 @@ Double click the variants to toggle between the Day and Sunset lighting scenario
 ## Next Steps
 This guide shows an example of changing a single property on the DirectionalLight. Repeat the process for other properties and actors to get your desired lighting.
 
-Learn more about lighting settings on the [Unreal Engine Documentation](https://docs.unrealengine.com/4.27/en-US/BuildingWorlds/LightingAndShadows/) site.
+Follow the [Precomputed Lighting Scenarios](https://docs.unrealengine.com/4.27/en-US/BuildingWorlds/LightingAndShadows/PrecomputedLightingScenarios/) guide to import the level into your project.
 
-lighting scenario https://docs.unrealengine.com/4.27/en-US/BuildingWorlds/LightingAndShadows/PrecomputedLightingScenarios/
+Learn more about lighting settings on the [Unreal Engine Documentation](https://docs.unrealengine.com/4.27/en-US/BuildingWorlds/LightingAndShadows/) site.
