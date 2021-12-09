@@ -2,7 +2,7 @@
 
 This document will take you step-by-step through the tasks required to set up a lighting scenario using the variant manager in Unreal Engine 4.
 
-Using the variant manager is an alternative way to create lighting scenarios from the standard method.
+Using the variant manager can be an alternative way to create lighting scenarios from the standard method.
 
 The benefits of using the variant manager are:
 * to speed up the iteration process.
@@ -45,7 +45,7 @@ If not, follow these links to learn more:
 
 <br/>
 
-5. Double click *LightingScenario01* to pop up the **VariantManager** Window.
+5. Open *LightingScenario01* to pop up the **VariantManager** Window.
 
 ![LS05_VMPopUp](https://raw.githubusercontent.com/alanm01/LightingScenarios/main/How%20to%20Set%20Up%20Lighting%20Scenario/Images/LS05_VMPopUp.png)
 
