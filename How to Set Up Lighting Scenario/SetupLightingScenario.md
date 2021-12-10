@@ -2,6 +2,8 @@
 
 This document will take you step-by-step through the tasks required to set up a lighting scenario using the variant manager in Unreal Engine 4.
 
+<br/>
+
 This guide is divided into three sections:
 1. Set Up the Lighting Scenario Scene
     * Use an Unreal Engine level template to set up a basic lighting scenario scene.  
