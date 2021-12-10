@@ -10,6 +10,8 @@ This guide is divided into three sections:
 3. Configure Your Lighting Variants
     * Configure the actor's properties to get the visual look of a day and sunset lighting.
 
+<br/>
+
 Using the variant manager can be an alternative way to create lighting scenarios from the standard method.
 
 The benefits of using the variant manager are:
