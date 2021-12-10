@@ -3,9 +3,12 @@
 This document will take you step-by-step through the tasks required to set up a lighting scenario using the variant manager in Unreal Engine 4.
 
 This guide is divided into three sections:
-1. Set Up the Lighting Scenario Scene —  Use an Unreal Engine level template to set up a basic lighting scenario scene.  
-2. Set Up the Variant Manager — Create a day and sunset variant and add the lighting actors into their properties.
-3. Configure Your Lighting Variants — Configure the actor's properties to get the visual look of a day and sunset lighting.
+1. Set Up the Lighting Scenario Scene
+  * Use an Unreal Engine level template to set up a basic lighting scenario scene.  
+2. Set Up the Variant Manager
+  * Create a day and sunset variant and add the lighting actors into their properties.
+3. Configure Your Lighting Variants
+  * Configure the actor's properties to get the visual look of a day and sunset lighting.
 
 Using the variant manager can be an alternative way to create lighting scenarios from the standard method.
 
