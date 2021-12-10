@@ -2,7 +2,7 @@
 
 This document will take you step-by-step through the tasks required to set up a lighting scenario using the variant manager in Unreal Engine 4.
 
-<br/>
+### About This Guide
 
 This guide is divided into three sections:
 1. Set Up the Lighting Scenario Scene
@@ -12,7 +12,7 @@ This guide is divided into three sections:
 3. Configure Your Lighting Variants
     * Configure the actor's properties to get the visual look of a day and sunset lighting.
 
-<br/>
+### Variant Manager
 
 Using the variant manager can be an alternative way to create lighting scenarios from the standard method.
 
